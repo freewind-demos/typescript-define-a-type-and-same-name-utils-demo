@@ -1,5 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Define a Type and Same Name Utils Demo
 ===========================
+
+假设我定义了一个类型为A，同时还有一些utils来操作它，怎么能让两者尽量匹配。
+
+可以同时使用`type/interface`和`const`来定义同名的type和utils namespace
 
 ```
 npm install
